@@ -29,3 +29,7 @@ Modern portfolio management requires moving beyond traditional models to capture
 2. Install Required dependencies:
    ```bash
    pip install -r requirements.txt
+3. Execute the Jupyter Notebook cell by cell to observe the data flow, model training, and final backtest visualization.
+
+## Key Results
+The Random Forest model effectively identified risk factors and generated trading signals that demonstrated resilience during market downturns.   The out-of-sample backtest visualization highlights the strategy's cumulative growth compared to a traditional market benchmark, validating the application of non-linear machine learning models in factor-based investing.
